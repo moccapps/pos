@@ -1,0 +1,1 @@
+This POS system provides functionality for sales transactions, inventory management, and accounting with a user-friendly interface. It features a dial pad for cash tender, automatic change calculation, and receipt printing.
